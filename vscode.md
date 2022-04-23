@@ -6,7 +6,7 @@
 
 - `rafce` - React function component
 
-https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+https://github.com/dsznajder/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md
 
 ### Storybook
 
