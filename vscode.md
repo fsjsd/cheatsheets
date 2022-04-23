@@ -2,9 +2,13 @@
 
 ## Snippets
 
-### Storybook
+### React
 
 - `rafce` - React function component
+
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+
+### Storybook
 
 - `sbtrc` - Storybook
 
